@@ -7,3 +7,5 @@
 2-bring_me_home: Changes the working directory to the user home directory.
 
 3-listfiles: Displays directory contents in long format.
+
+4-listmorefiles: Displays all files, including hidden files, in long format.
