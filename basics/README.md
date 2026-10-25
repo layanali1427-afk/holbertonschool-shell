@@ -31,3 +31,5 @@
 15-lets_move: Moves files starting with uppercase letters to /tmp/u.
 
 16-clean_emacs: Deletes files ending with a tilde (~) in the current directory.
+
+17-tree: Creates the nested directories welcome/to/school.
