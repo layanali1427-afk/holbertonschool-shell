@@ -27,3 +27,5 @@
 13-symbolic_link: Creates a symbolic link named __ls__ pointing to /bin/ls.
 
 14-copy_html: Copies new or updated HTML files to the parent directory.
+
+15-lets_move: Moves files starting with uppercase letters to /tmp/u.
