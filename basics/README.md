@@ -11,3 +11,5 @@
 4-listmorefiles: Displays all files, including hidden files, in long format.
 
 5-listfilesdigitonly: Lists all files in long format with numeric user and group IDs.
+
+7-movethatfile: Moves betty from /tmp to /tmp/my_first_directory.
