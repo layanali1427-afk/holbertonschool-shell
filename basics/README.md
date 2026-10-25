@@ -29,3 +29,5 @@
 14-copy_html: Copies new or updated HTML files to the parent directory.
 
 15-lets_move: Moves files starting with uppercase letters to /tmp/u.
+
+16-clean_emacs: Deletes files ending with a tilde (~) in the current directory.
