@@ -21,3 +21,5 @@
 10-back: Changes the working directory to the previous directory.
 
 11-lists: Lists all files including hidden ones in the current directory, parent directory, and /boot in long format.
+
+12-file_type: Displays the type of the file /tmp/iamafile.
