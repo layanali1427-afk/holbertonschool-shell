@@ -13,3 +13,5 @@
 5-listfilesdigitonly: Lists all files in long format with numeric user and group IDs.
 
 7-movethatfile: Moves betty from /tmp to /tmp/my_first_directory.
+
+8-firstdelete: Deletes the file betty from /tmp/my_first_directory.
