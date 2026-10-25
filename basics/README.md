@@ -25,3 +25,5 @@
 12-file_type: Displays the type of the file /tmp/iamafile.
 
 13-symbolic_link: Creates a symbolic link named __ls__ pointing to /bin/ls.
+
+14-copy_html: Copies new or updated HTML files to the parent directory.
