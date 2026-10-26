@@ -15,3 +15,5 @@
 7-everybody: Adds execute permission to all users for hello.
 
 8-James_Bond: Sets hello permissions to 007.
+
+9-John_Doe: Sets hello permissions to 753.
