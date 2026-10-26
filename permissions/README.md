@@ -13,3 +13,5 @@
 6-multiple_permissions: Adds execute permission to owner and group, and read permission to others.
 
 7-everybody: Adds execute permission to all users for hello.
+
+8-James_Bond: Sets hello permissions to 007.
