@@ -9,3 +9,5 @@
 3-new_owner: Changes the owner of hello to betty.
 
 4-empty: Creates an empty file named hello.
+
+6-multiple_permissions: Adds execute permission to owner and group, and read permission to others.
