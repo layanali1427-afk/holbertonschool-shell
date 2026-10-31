@@ -13,3 +13,5 @@
 5-firstlines: Displays the first 10 lines of /etc/passwd.
 
 22-users_and_homes: Displays users and their home directories, sorted alphabetically.
+
+6-third_line: Displays the third line of the file iacta.
