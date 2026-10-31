@@ -5,3 +5,5 @@
 1-confused_smiley: Prints a confused smiley.
 
 2-hellofile: Displays the content of /etc/passwd.
+
+3-twofiles: Displays the contents of /etc/passwd and /etc/hosts.
