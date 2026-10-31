@@ -15,3 +15,5 @@
 22-users_and_homes: Displays users and their home directories, sorted alphabetically.
 
 6-third_line: Displays the third line of the file iacta.
+
+7-file: Creates a file with a special-character name containing Best School.
