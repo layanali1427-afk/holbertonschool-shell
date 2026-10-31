@@ -11,3 +11,5 @@
 4-lastlines: Displays the last 10 lines of /etc/passwd.
 
 5-firstlines: Displays the first 10 lines of /etc/passwd.
+
+22-users_and_homes: Displays users and their home directories, sorted alphabetically.
