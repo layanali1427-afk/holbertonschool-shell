@@ -29,3 +29,5 @@
 12-newest_files: Displays the 10 newest entries in the current directory.
 
 13-unique: Displays words that appear exactly once, sorted alphabetically.
+
+26-the_biggest_fan: Displays the 11 most active hosts from TSV web server logs.
