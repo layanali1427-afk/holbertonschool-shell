@@ -31,3 +31,5 @@
 13-unique: Displays words that appear exactly once, sorted alphabetically.
 
 26-the_biggest_fan: Displays the 11 most active hosts from TSV web server logs.
+
+25-acrostic: Decodes an acrostic using the first character of each line.
