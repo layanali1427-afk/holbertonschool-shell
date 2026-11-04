@@ -38,3 +38,5 @@
 24-gifs: Lists GIF filenames without extensions, sorted case-insensitively.
 
 14-findthatword: Displays lines containing root from /etc/passwd.
+
+16-whatsnext: Displays lines containing root and the following three lines.
