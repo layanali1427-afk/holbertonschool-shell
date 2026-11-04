@@ -40,3 +40,5 @@
 14-findthatword: Displays lines containing root from /etc/passwd.
 
 16-whatsnext: Displays lines containing root and the following three lines.
+
+17-hidethisword: Displays lines from /etc/passwd that do not contain bin.
