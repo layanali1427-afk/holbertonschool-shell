@@ -17,3 +17,5 @@
 7-create_global_variable: Creates an environment variable BEST with the value School.
 
 8-true_knowledge: Adds 128 to TRUEKNOWLEDGE and prints the result.
+
+9-divide_and_rule: Divides POWER by DIVIDE and prints the result.
