@@ -15,3 +15,5 @@
 6-create_local_variable: Creates a local variable BEST with the value School.
 
 7-create_global_variable: Creates an environment variable BEST with the value School.
+
+8-true_knowledge: Adds 128 to TRUEKNOWLEDGE and prints the result.
