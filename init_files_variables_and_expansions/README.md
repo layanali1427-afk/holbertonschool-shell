@@ -19,3 +19,5 @@
 8-true_knowledge: Adds 128 to TRUEKNOWLEDGE and prints the result.
 
 9-divide_and_rule: Divides POWER by DIVIDE and prints the result.
+
+10-love_exponent_breath: Raises BREATH to the power of LOVE.
