@@ -9,3 +9,5 @@
 3-paths: Counts non-empty directories listed in PATH.
 
 4-global_variables: Lists all environment variables.
+
+5-local_variables: Lists local variables, environment variables, and shell functions.
