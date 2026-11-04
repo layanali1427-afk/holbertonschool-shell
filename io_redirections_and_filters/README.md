@@ -46,3 +46,5 @@
 18-letteronly: Displays lines from sshd_config starting with a letter.
 
 19-AZ: Replaces A with Z and c with e from standard input.
+
+20-hiago: Removes all lowercase c and uppercase C characters from input.
