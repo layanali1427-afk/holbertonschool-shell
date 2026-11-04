@@ -31,3 +31,5 @@
 14-decimal_to_hexadecimal: Converts DECIMAL from base 10 to hexadecimal.
 
 15-rot13: Encodes and decodes text using ROT13.
+
+16-odd: Prints every other input line, starting with the first.
