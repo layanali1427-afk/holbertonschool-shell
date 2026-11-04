@@ -48,3 +48,5 @@
 19-AZ: Replaces A with Z and c with e from standard input.
 
 20-hiago: Removes all lowercase c and uppercase C characters from input.
+
+21-reverse: Reverses the characters of each input line.
