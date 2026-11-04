@@ -23,3 +23,5 @@
 10-love_exponent_breath: Raises BREATH to the power of LOVE.
 
 11-binary_to_decimal: Converts a binary number to decimal.
+
+12-combinations: Prints all two-letter combinations except oo.
